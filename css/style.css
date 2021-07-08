@@ -1,0 +1,103 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+h1{
+    margin: 0 0 0 -0.44rem;
+    font-weight: normal;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    padding: 0%;
+    color: #66bfbf;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+    color: #66bfbf;
+    
+}
+h3{
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+    color: #11999e;
+    font-size: 1.44rem;
+}
+p{
+    font-weight: bold;
+}
+.description3{
+    font-weight: normal;
+}
+.top-container{
+    margin: 0;
+    padding-top: 10rem;
+    position: relative;
+    background-color: rgb(228, 240, 240);
+
+}
+.middle-container{
+    margin-top: 2rem;
+
+}
+.bottom-container{
+
+    
+}
+.skill1-img{
+    width: 12.5rem;
+    height: 12.5rem;
+    padding-right: 1.56rem;
+    float: left;
+}
+.skill2-img{
+    width: 12.5rem;
+    height: 12.5rem;
+    float: right;
+    padding-left: 1.56rem;
+}
+.top-cloud{
+    width: 12rem;
+    position:absolute ;
+    top: 2rem;
+    right: 250px;
+}
+.bottom-cloud{
+    width: 12rem;
+    position:absolute;
+    left: 15.62rem;
+}
+.user-img{
+    height: 12.5rem;
+    width: 12.5rem;
+}
+footer{
+    background-color:#7bcccc;
+    height: 5rem;
+    padding: 2.5rem;
+    margin-top: 5rem;
+}
+.skill-heading{
+    margin: 3rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size:xx-large;
+}
+.footer-links{
+    color: #11999e;
+}
+.copyright-tag{
+    color: aliceblue;
+    font-weight: normal;
+}
+.skill-container{
+    width: 50%;
+    margin: 6.25rem auto 6.25rem auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-python{
+   
+}
+.skill-react{
+
+}
